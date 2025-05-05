@@ -33,3 +33,12 @@ graph TD
     F --> G[Visualization & Interpretation]
     G --> H[Deployment]
 
+## 👥 Team Members & Responsibilities
+
+| Name              | Role                                                              |
+|-------------------|-------------------------------------------------------------------|
+| HARINI G          | Data Collection, EDA, Visualization                               |
+| HARIDHARSHINI A   | Data Cleaning, Feature Engineering, Deployment                    |
+| DHANUSRI P        | Model Training, Evaluation, and Performance Optimization          |
+
+
