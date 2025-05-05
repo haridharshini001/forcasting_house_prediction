@@ -25,10 +25,11 @@ The real estate market is highly volatile and influenced by multiple factors lik
 
 ```mermaid
 graph TD
-A[Data Collection] --> B[Data Cleaning]
-B --> C[Exploratory Data Analysis (EDA)]
-C --> D[Feature Engineering]
-D --> E[Model Building (Multiple Regressors)]
-E --> F[Model Evaluation]
-F --> G[Visualization & Interpretation]
-G --> H[Deployment via Streamlit]
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Feature Engineering]
+    D --> E[Model Building]
+    E --> F[Model Evaluation]
+    F --> G[Visualization & Interpretation]
+    G --> H[Deployment]
+
